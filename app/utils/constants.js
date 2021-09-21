@@ -1,0 +1,14 @@
+export const API_URL = "https://delavega-backend.herokuapp.com";
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const LOADING_TRUE = "LOADING_TRUE";
+export const LOADING_FALSE = "LOADING_FALSE";
+export const SET_IS_FAVOURITE = "SET_IS_FAVOURITE";
+export const REMOVE_FAVOURITE = "REMOVE_FAVOURITE";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const REFRESH = "REFRESH";
+export const ADD_QUANTITY = "ADD_QUANTITY";
+export const SUB_QUANTITY = "SUB_QUANTITY";
+export const SORT_PRODUCTS = "SORT_PRODUCTS";
+export const LOG_ADDRESSES = "LOG_ADDRESSES";
+export const RESTART_APP = "RESTART_APP";

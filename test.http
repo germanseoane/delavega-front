@@ -1,0 +1,9 @@
+POST https://delavega-backend.herokuapp.com/api/users
+Content-Type: application/json
+
+{
+    "name" : "germans",
+    "email" : "adsfsssassdfd@asfas.com",
+    "password" : "adsfasdf",
+    
+}
